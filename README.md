@@ -26,7 +26,7 @@ I'm a full-stack developer and AI integration specialist building the future of 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -35,10 +35,28 @@ I'm a full-stack developer and AI integration specialist building the future of 
 
 #
 
+### 🎥 Latest Project Demos
+
+[![Lead Generation App for Businesses](https://img.youtube.com/vi/sdQ4L0kTpRI/maxresdefault.jpg)](https://youtu.be/sdQ4L0kTpRI "Lead Generation App for Businesses")
+
+[![BetterHealth - Doctor Side Demo](https://img.youtube.com/vi/DGvv4j39KbI/maxresdefault.jpg)](https://youtu.be/DGvv4j39KbI "BetterHealth - Doctor Side Demo")
+
+[![BetterHealth - Patient Side Demo](https://img.youtube.com/vi/9BdRLwVefGc/maxresdefault.jpg)](https://youtu.be/9BdRLwVefGc "BetterHealth - Patient Side Demo")
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Watch%20More%20Demos-red?style=for-the-badge&logo=video&logoColor=white"/>](https://youtube.com/@bessie-delight)
+
+#
+
 ### 🏥 Featured Projects
 
 #### 🔬 BetterHealth - AI-Powered Healthcare Platform
 Revolutionary healthcare application that serves as a 24/7 virtual assistant for patients and decision-making tool for doctors. Features AI-driven medical consultations, critical condition detection, and automated workflow management.
+- 🎥 [Watch Doctor Side Demo](https://youtu.be/DGvv4j39KbI)
+- 🎥 [Watch Patient Side Demo](https://youtu.be/9BdRLwVefGc)
+
+#### 💼 Lead Generation App for Businesses
+Intelligent lead generation platform designed to help businesses streamline their customer acquisition process with automated workflows and smart targeting.
+- 🎥 [Watch Full Demo](https://youtu.be/sdQ4L0kTpRI)
 
 #### 👁️ iCare - AI-Powered Eye Care RAG System
 Intelligent medical data processing system for eye care clinics, featuring AI-driven OCR, personalized insights, and real-time voice interactions for enhanced patient care.
