@@ -97,8 +97,7 @@ Role-based academic management system with attendance tracking, course managemen
 
 I'm passionate about leveraging technology to solve real-world problems, particularly in healthcare and education. Whether you're interested in collaborating on AI-powered solutions or discussing the latest in web development, I'd love to connect!
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-blue?style=for-the-badge&logo=globe&logoColor=white"/>](https://your-portfolio-url.com)
-[<img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/bessie-delight)
+[<img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/delight-bessie-b09b7328b/)
 [<img src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white"/>](mailto:bessiedelight@gmail.com)
 
 #
