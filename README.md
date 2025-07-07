@@ -37,13 +37,17 @@ I'm a full-stack developer and AI integration specialist building the future of 
 
 ### 🎥 Latest Project Demos
 
-[![Lead Generation App for Businesses](https://img.youtube.com/vi/sdQ4L0kTpRI/maxresdefault.jpg)](https://youtu.be/sdQ4L0kTpRI "Lead Generation App for Businesses")
-
-[![BetterHealth - Doctor Side Demo](https://img.youtube.com/vi/DGvv4j39KbI/maxresdefault.jpg)](https://youtu.be/DGvv4j39KbI "BetterHealth - Doctor Side Demo")
-
-[![BetterHealth - Patient Side Demo](https://img.youtube.com/vi/9BdRLwVefGc/maxresdefault.jpg)](https://youtu.be/9BdRLwVefGc "BetterHealth - Patient Side Demo")
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Watch%20More%20Demos-red?style=for-the-badge&logo=video&logoColor=white"/>](https://youtube.com/@bessie-delight)
+<p align="center">
+  <a href="https://youtu.be/sdQ4L0kTpRI" title="Lead Generation App for Businesses">
+    <img src="https://img.youtube.com/vi/sdQ4L0kTpRI/mqdefault.jpg" alt="Lead Generation App Demo" width="240" height="180" style="margin: 5px;"/>
+  </a>
+  <a href="https://youtu.be/DGvv4j39KbI" title="BetterHealth - Doctor Side Demo">
+    <img src="https://img.youtube.com/vi/DGvv4j39KbI/mqdefault.jpg" alt="BetterHealth Doctor Demo" width="240" height="180" style="margin: 5px;"/>
+  </a>
+  <a href="https://youtu.be/9BdRLwVefGc" title="BetterHealth - Patient Side Demo">
+    <img src="https://img.youtube.com/vi/9BdRLwVefGc/mqdefault.jpg" alt="BetterHealth Patient Demo" width="240" height="180" style="margin: 5px;"/>
+  </a>
+</p>
 
 #
 
