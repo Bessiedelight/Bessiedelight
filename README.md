@@ -57,14 +57,6 @@ I'm a full-stack developer and AI integration specialist building the future of 
   </tr>
 </table>
 
-<div align="center">
-  
-  [![Watch Demo](https://img.shields.io/badge/▶️_Watch_Lead_Gen_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sdQ4L0kTpRI)
-  [![Watch Demo](https://img.shields.io/badge/▶️_Watch_Doctor_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/DGvv4j39KbI)
-  [![Watch Demo](https://img.shields.io/badge/▶️_Watch_Patient_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/9BdRLwVefGc)
-
-</div>
-
 ---
 #
 
