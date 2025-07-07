@@ -32,7 +32,7 @@ I'm a full-stack developer and AI integration specialist building the future of 
   <tr>
     <td align="center" width="300">
       <a href="https://youtu.be/sdQ4L0kTpRI">
-        <img src="https://firstpagesage.com/wp-content/uploads/2021/06/LEAD-GEN-990-x700-1.png" alt="Lead Generation App Demo" width="280" height="200"/>
+        <img src="https://www.abstraktmg.com/wp-content/uploads/2024/06/SEO-Lead-Generation-Best-Practices_Main.png" alt="Lead Generation App Demo" width="280" height="200"/>
       </a>
       <br/>
       <h3>💼 Lead Generation App</h3>
