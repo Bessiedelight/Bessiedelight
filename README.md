@@ -1,6 +1,6 @@
-# Bessie Delight 🚀⚡
+# Bessie Delight
 
-**`Digital Healthcare Innovator (AI Developer/Healthcare Tech Creator)`**
+**`Full-Stack Developer (AI and Automations Developer) 🚀⚡`**
 
 I'm a full-stack developer and AI integration specialist building the future of healthcare technology one line of code at a time. All projects are built from the ground up, from planning and designing all the way to solving real-world medical problems with cutting-edge AI solutions. I specialize in creating intelligent healthcare applications that bridge the gap between patients and medical professionals through innovative technology.
 
@@ -80,15 +80,8 @@ Role-based academic management system with attendance tracking, course managemen
 - **🎯 AI/ML Integration Specialist** - Expert in modern AI technologies
 - **🚀 Healthcare Tech Innovator** - Specialized in medical AI applications
 
-#
 
-### 📊 Stats
 
-![Bessie's GitHub stats](https://github-readme-stats.vercel.app/api?username=bessie-delight&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bessie-delight&theme=radical&border_radius=4.5)
-
-#
 
 ### 💡 What I'm Working On
 
