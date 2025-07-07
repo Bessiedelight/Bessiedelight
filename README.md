@@ -4,14 +4,6 @@
 
 I'm a full-stack developer and AI integration specialist building the future of healthcare technology one line of code at a time. All projects are built from the ground up, from planning and designing all the way to solving real-world medical problems with cutting-edge AI solutions. I specialize in creating intelligent healthcare applications that bridge the gap between patients and medical professionals through innovative technology.
 
-   <p align="left">
-      <a href="https://github.com/bessie-delight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bessie-delight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/bessie-delight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bessie-delight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://linkedin.com/in/bessie-delight">
-         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   </p>
 
 ---
 
@@ -39,13 +31,13 @@ I'm a full-stack developer and AI integration specialist building the future of 
 
 <p align="center">
   <a href="https://youtu.be/sdQ4L0kTpRI" title="Lead Generation App for Businesses">
-    <img src="https://img.youtube.com/vi/sdQ4L0kTpRI/mqdefault.jpg" alt="Lead Generation App Demo" width="240" height="180" style="margin: 5px;"/>
+    <img src="https://firstpagesage.com/wp-content/uploads/2021/06/LEAD-GEN-990-x700-1.png" alt="Lead Generation App Demo" width="240" height="180" style="margin: 5px;"/>
   </a>
   <a href="https://youtu.be/DGvv4j39KbI" title="BetterHealth - Doctor Side Demo">
-    <img src="https://img.youtube.com/vi/DGvv4j39KbI/mqdefault.jpg" alt="BetterHealth Doctor Demo" width="240" height="180" style="margin: 5px;"/>
+    <img src="https://www.innovationnewsnetwork.com/wp-content/uploads/2025/04/shutterstock_2436860349.jpg" alt="BetterHealth Doctor Demo" width="240" height="180" style="margin: 5px;"/>
   </a>
   <a href="https://youtu.be/9BdRLwVefGc" title="BetterHealth - Patient Side Demo">
-    <img src="https://img.youtube.com/vi/9BdRLwVefGc/mqdefault.jpg" alt="BetterHealth Patient Demo" width="240" height="180" style="margin: 5px;"/>
+    <img src="https://disruptionhub.com/wp-content/uploads/2024/01/What-is-the-impact-of-AI-on-the-doctor-patient-relationship-1024x683.jpg" alt="BetterHealth Patient Demo" width="240" height="180" style="margin: 5px;"/>
   </a>
 </p>
 
