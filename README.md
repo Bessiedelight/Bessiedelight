@@ -26,7 +26,7 @@ I'm a full-stack developer and AI integration specialist building the future of 
 <br />
 
 #
-# 🎥 Latest Project Demos
+#  Latest Project Demos
 
 <table align="center">
   <tr>
@@ -35,7 +35,7 @@ I'm a full-stack developer and AI integration specialist building the future of 
         <img src="https://www.abstraktmg.com/wp-content/uploads/2024/06/SEO-Lead-Generation-Best-Practices_Main.png" alt="Lead Generation App Demo" width="280" height="200"/>
       </a>
       <br/>
-      <h3>💼 Lead Generation App</h3>
+      <h3>Lead Generation App</h3>
       <p><em>Intelligent platform for automated customer acquisition with smart targeting and workflow automation</em></p>
     </td>
     <td align="center" width="300">
@@ -43,7 +43,7 @@ I'm a full-stack developer and AI integration specialist building the future of 
         <img src="https://www.innovationnewsnetwork.com/wp-content/uploads/2025/04/shutterstock_2436860349.jpg" alt="BetterHealth Doctor Demo" width="280" height="200"/>
       </a>
       <br/>
-      <h3>🏥 BetterHealth - Doctor Side</h3>
+      <h3> BetterHealth - Doctor Side</h3>
       <p><em>AI-powered healthcare platform for medical professionals with intelligent decision-making tools</em></p>
     </td>
     <td align="center" width="300">
@@ -51,7 +51,7 @@ I'm a full-stack developer and AI integration specialist building the future of 
         <img src="https://disruptionhub.com/wp-content/uploads/2024/01/What-is-the-impact-of-AI-on-the-doctor-patient-relationship-1024x683.jpg" alt="BetterHealth Patient Demo" width="280" height="200"/>
       </a>
       <br/>
-      <h3>👥 BetterHealth - Patient Side</h3>
+      <h3>BetterHealth - Patient Side</h3>
       <p><em>24/7 AI virtual assistant for patient healthcare with critical condition detection</em></p>
     </td>
   </tr>
@@ -64,54 +64,54 @@ I'm a full-stack developer and AI integration specialist building the future of 
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <p style="color: #666; font-style: italic; font-size: 14px;">✨ Click on any demo to watch the full showcase</p>
+  <p style="color: #666; font-style: italic; font-size: 14px;"> Click on any demo to watch the full showcase</p>
 </div>
 
 ---
 
 ### 🏥 Featured Projects
 
-#### 🔬 BetterHealth - AI-Powered Healthcare Platform
+####  BetterHealth - AI-Powered Healthcare Platform
 Revolutionary healthcare application that serves as a 24/7 virtual assistant for patients and decision-making tool for doctors. Features AI-driven medical consultations, critical condition detection, and automated workflow management.
 - 🎥 [Watch Doctor Side Demo](https://youtu.be/DGvv4j39KbI)
 - 🎥 [Watch Patient Side Demo](https://youtu.be/9BdRLwVefGc)
 
-#### 💼 Lead Generation App for Businesses
+#### Lead Generation App for Businesses
 Intelligent lead generation platform designed to help businesses streamline their customer acquisition process with automated workflows and smart targeting.
 - 🎥 [Watch Full Demo](https://youtu.be/sdQ4L0kTpRI)
 
-#### 👁️ iCare - AI-Powered Eye Care RAG System
+#### 👁iCare - AI-Powered Eye Care RAG System
 Intelligent medical data processing system for eye care clinics, featuring AI-driven OCR, personalized insights, and real-time voice interactions for enhanced patient care.
 
-#### 💻 DevOverflow - Developer Collaboration Platform
+#### DevOverflow - Developer Collaboration Platform
 Comprehensive knowledge-sharing platform with real-time collaboration, gamification, and extensive developer resources.
 
-#### 🎓 Stuboard - University Management System
+#### Stuboard - University Management System
 Role-based academic management system with attendance tracking, course management, and analytics dashboard.
 
 #
 
 ### 🏆 Achievements
 
-- **🥇 UCC Hackathon Winner 2024** - First place for innovative healthcare solution
-- **📜 Next.js Ultimate Mastery Certification** - Advanced Next.js development
-- **🎯 AI/ML Integration Specialist** - Expert in modern AI technologies
-- **🚀 Healthcare Tech Innovator** - Specialized in medical AI applications
+- ** UCC Hackathon Winner 2024** - First place for innovative healthcare solution
+- ** Next.js Ultimate Mastery Certification** - Advanced Next.js development
+- ** AI/ML Integration Specialist** - Expert in modern AI technologies
+- ** Healthcare Tech Innovator** - Specialized in medical AI applications
 
 
 
 
 ### 💡 What I'm Working On
 
-- 🏥 Advancing AI-powered healthcare solutions
-- 🤖 Exploring cutting-edge AI model integrations
-- 🎨 Creating immersive web experiences with Three.js and GSAP
-- 📱 Building responsive, user-centric applications
-- 🔬 Researching medical AI applications and compliance
+-  Advancing AI-powered healthcare solutions
+-  Exploring cutting-edge AI model integrations
+-  Creating immersive web experiences with Three.js and GSAP
+-  Building responsive, user-centric applications
+-  Researching medical AI applications and compliance
 
 #
 
-### 🌟 Let's Connect
+###  Let's Connect
 
 I'm passionate about leveraging technology to solve real-world problems, particularly in healthcare and education. Whether you're interested in collaborating on AI-powered solutions or discussing the latest in web development, I'd love to connect!
 
