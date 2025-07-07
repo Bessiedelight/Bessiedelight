@@ -26,22 +26,67 @@ I'm a full-stack developer and AI integration specialist building the future of 
 <br />
 
 #
+# 🎥 Latest Project Demos
 
-### 🎥 Latest Project Demos
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: stretch; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
+    
+    <!-- Lead Generation App Demo -->
+    <div style="max-width: 280px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+      <div style="background: rgba(255,255,255,0.1); border-radius: 15px; padding: 10px; margin-bottom: 15px; backdrop-filter: blur(10px);">
+        <a href="https://youtu.be/sdQ4L0kTpRI" target="_blank" style="text-decoration: none;">
+          <img src="https://firstpagesage.com/wp-content/uploads/2021/06/LEAD-GEN-990-x700-1.png" alt="Lead Generation App Demo" style="width: 100%; height: 160px; object-fit: cover; border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
+      </div>
+      <div style="text-align: center;">
+        <h4 style="color: white; margin: 0 0 8px 0; font-size: 16px; font-weight: 600;">💼 Lead Generation App</h4>
+        <p style="color: rgba(255,255,255,0.8); margin: 0; font-size: 14px; line-height: 1.4;">Intelligent platform for automated customer acquisition</p>
+      </div>
+      <div style="position: absolute; top: 15px; right: 15px; background: rgba(255,255,255,0.2); border-radius: 50%; padding: 8px; backdrop-filter: blur(5px);">
+        <span style="color: white; font-size: 12px;">▶️</span>
+      </div>
+    </div>
 
-<p align="center">
-  <a href="https://youtu.be/sdQ4L0kTpRI" title="Lead Generation App for Businesses">
-    <img src="https://firstpagesage.com/wp-content/uploads/2021/06/LEAD-GEN-990-x700-1.png" alt="Lead Generation App Demo" width="240" height="180" style="margin: 5px;"/>
-  </a>
-  <a href="https://youtu.be/DGvv4j39KbI" title="BetterHealth - Doctor Side Demo">
-    <img src="https://www.innovationnewsnetwork.com/wp-content/uploads/2025/04/shutterstock_2436860349.jpg" alt="BetterHealth Doctor Demo" width="240" height="180" style="margin: 5px;"/>
-  </a>
-  <a href="https://youtu.be/9BdRLwVefGc" title="BetterHealth - Patient Side Demo">
-    <img src="https://disruptionhub.com/wp-content/uploads/2024/01/What-is-the-impact-of-AI-on-the-doctor-patient-relationship-1024x683.jpg" alt="BetterHealth Patient Demo" width="240" height="180" style="margin: 5px;"/>
-  </a>
-</p>
+    <!-- BetterHealth Doctor Demo -->
+    <div style="max-width: 280px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+      <div style="background: rgba(255,255,255,0.1); border-radius: 15px; padding: 10px; margin-bottom: 15px; backdrop-filter: blur(10px);">
+        <a href="https://youtu.be/DGvv4j39KbI" target="_blank" style="text-decoration: none;">
+          <img src="https://www.innovationnewsnetwork.com/wp-content/uploads/2025/04/shutterstock_2436860349.jpg" alt="BetterHealth Doctor Demo" style="width: 100%; height: 160px; object-fit: cover; border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
+      </div>
+      <div style="text-align: center;">
+        <h4 style="color: white; margin: 0 0 8px 0; font-size: 16px; font-weight: 600;">🏥 BetterHealth - Doctor Side</h4>
+        <p style="color: rgba(255,255,255,0.8); margin: 0; font-size: 14px; line-height: 1.4;">AI-powered healthcare platform for medical professionals</p>
+      </div>
+      <div style="position: absolute; top: 15px; right: 15px; background: rgba(255,255,255,0.2); border-radius: 50%; padding: 8px; backdrop-filter: blur(5px);">
+        <span style="color: white; font-size: 12px;">▶️</span>
+      </div>
+    </div>
 
-#
+    <!-- BetterHealth Patient Demo -->
+    <div style="max-width: 280px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+      <div style="background: rgba(255,255,255,0.1); border-radius: 15px; padding: 10px; margin-bottom: 15px; backdrop-filter: blur(10px);">
+        <a href="https://youtu.be/9BdRLwVefGc" target="_blank" style="text-decoration: none;">
+          <img src="https://disruptionhub.com/wp-content/uploads/2024/01/What-is-the-impact-of-AI-on-the-doctor-patient-relationship-1024x683.jpg" alt="BetterHealth Patient Demo" style="width: 100%; height: 160px; object-fit: cover; border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
+      </div>
+      <div style="text-align: center;">
+        <h4 style="color: white; margin: 0 0 8px 0; font-size: 16px; font-weight: 600;">👥 BetterHealth - Patient Side</h4>
+        <p style="color: rgba(255,255,255,0.8); margin: 0; font-size: 14px; line-height: 1.4;">24/7 AI virtual assistant for patient healthcare</p>
+      </div>
+      <div style="position: absolute; top: 15px; right: 15px; background: rgba(255,255,255,0.2); border-radius: 50%; padding: 8px; backdrop-filter: blur(5px);">
+        <span style="color: white; font-size: 12px;">▶️</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <p style="color: #666; font-style: italic; font-size: 14px;">✨ Click on any demo to watch the full showcase</p>
+</div>
+
+---
 
 ### 🏥 Featured Projects
 
