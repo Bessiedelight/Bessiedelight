@@ -1,13 +1,13 @@
 # Bessie Delight
 
-**`Full-Stack Developer (AI and Automations Developer) 🚀⚡`**
+**`Full-Stack Developer (AI and Automations Developer)`**
 
 I'm a full-stack developer and AI integration specialist building the future of healthcare technology one line of code at a time. All projects are built from the ground up, from planning and designing all the way to solving real-world medical problems with cutting-edge AI solutions. I specialize in creating intelligent healthcare applications that bridge the gap between patients and medical professionals through innovative technology.
 
 
 ---
 
-### 🧰 Languages and Tools
+###  Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -73,12 +73,12 @@ I'm a full-stack developer and AI integration specialist building the future of 
 
 ####  BetterHealth - AI-Powered Healthcare Platform
 Revolutionary healthcare application that serves as a 24/7 virtual assistant for patients and decision-making tool for doctors. Features AI-driven medical consultations, critical condition detection, and automated workflow management.
-- 🎥 [Watch Doctor Side Demo](https://youtu.be/DGvv4j39KbI)
-- 🎥 [Watch Patient Side Demo](https://youtu.be/9BdRLwVefGc)
+-  [Watch Doctor Side Demo](https://youtu.be/DGvv4j39KbI)
+-  [Watch Patient Side Demo](https://youtu.be/9BdRLwVefGc)
 
 #### Lead Generation App for Businesses
 Intelligent lead generation platform designed to help businesses streamline their customer acquisition process with automated workflows and smart targeting.
-- 🎥 [Watch Full Demo](https://youtu.be/sdQ4L0kTpRI)
+-  [Watch Full Demo](https://youtu.be/sdQ4L0kTpRI)
 
 #### 👁iCare - AI-Powered Eye Care RAG System
 Intelligent medical data processing system for eye care clinics, featuring AI-driven OCR, personalized insights, and real-time voice interactions for enhanced patient care.
@@ -91,7 +91,7 @@ Role-based academic management system with attendance tracking, course managemen
 
 #
 
-### 🏆 Achievements
+###  Achievements
 
 - ** UCC Hackathon Winner 2024** - First place for innovative healthcare solution
 - ** Next.js Ultimate Mastery Certification** - Advanced Next.js development
@@ -101,7 +101,7 @@ Role-based academic management system with attendance tracking, course managemen
 
 
 
-### 💡 What I'm Working On
+###  What I'm Working On
 
 -  Advancing AI-powered healthcare solutions
 -  Exploring cutting-edge AI model integrations
@@ -121,7 +121,7 @@ I'm passionate about leveraging technology to solve real-world problems, particu
 #
 
 <details>
- <summary><h3>👨‍💻 Bessie's Coding Journey</h3></summary>
+ <summary><h3> Bessie's Coding Journey</h3></summary>
    My coding journey began with a passion for solving real-world problems through technology. As a Computer Science student at the University of Cape Coast, I discovered my calling in healthcare technology when I realized how AI could revolutionize patient care and medical efficiency. This led me to specialize in AI integration, particularly in healthcare applications.
 
    From building my first React application to winning the UCC Hackathon 2024 with an innovative healthcare solution, I've consistently pushed the boundaries of what's possible with modern web technologies. My expertise spans from frontend frameworks like React and Next.js to backend systems with Node.js, and advanced AI integrations using LangChain and various ML models.
