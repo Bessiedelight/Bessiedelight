@@ -69,7 +69,7 @@ I'm a full-stack developer and AI integration specialist building the future of 
 
 ---
 
-### 🏥 Featured Projects
+###  Featured Projects
 
 ####  BetterHealth - AI-Powered Healthcare Platform
 Revolutionary healthcare application that serves as a 24/7 virtual assistant for patients and decision-making tool for doctors. Features AI-driven medical consultations, critical condition detection, and automated workflow management.
@@ -80,7 +80,7 @@ Revolutionary healthcare application that serves as a 24/7 virtual assistant for
 Intelligent lead generation platform designed to help businesses streamline their customer acquisition process with automated workflows and smart targeting.
 -  [Watch Full Demo](https://youtu.be/sdQ4L0kTpRI)
 
-#### 👁iCare - AI-Powered Eye Care RAG System
+#### iCare - AI-Powered Eye Care RAG System
 Intelligent medical data processing system for eye care clinics, featuring AI-driven OCR, personalized insights, and real-time voice interactions for enhanced patient care.
 
 #### DevOverflow - Developer Collaboration Platform
