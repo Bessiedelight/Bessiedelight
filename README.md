@@ -1,4 +1,4 @@
-# Hi, I'm Bessie 👋🏾
+# Hi, I'm Bessie ✌️😃
 
 I'm an AI Engineer and Backend Engineer from Ghana.
 
