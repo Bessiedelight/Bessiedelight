@@ -8,7 +8,6 @@ My current focus is on agentic AI architectures, orchestration frameworks, retri
 
 ## What I'm Working On
 
-- AI Agents & Multi-Agent Systems
 - LLM Orchestration with LangGraph
 - Retrieval-Augmented Generation (RAG)
 - AI Automation Workflows
@@ -20,16 +19,6 @@ My current focus is on agentic AI architectures, orchestration frameworks, retri
 **AI & ML**
 Python • LangGraph • LangChain • PyTorch • Scikit-Learn • OpenAI APIs
 
-**Backend**
-Node.js • NestJS • Express.js • TypeScript • PostgreSQL • MongoDB • Redis
-
-**Infrastructure**
-Docker • Git • Linux
-
 ## Find Me Around The Web 🌍
-
-- Writing about AI Engineering and Machine Learning
-- Building open-source projects
-- Sharing technical insights on LinkedIn
 
 > Building AI systems that solve real-world problems.
