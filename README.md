@@ -12,17 +12,17 @@ My current focus is on agentic AI architectures, orchestration frameworks, retri
 
 ## What I'm Working On
 
-- LLM Orchestration with LangGraph
-- Retrieval-Augmented Generation (RAG)
+- Production level Ai Agent Orchestrations with Langchain and LangGraph
+- Retrieval-Augmented Generation (RAG) Systems
 - AI Automation Workflows
-- Machine Learning & Deep Learning
+- Building and fine-tunning models with Pytorch
 - Backend Systems & APIs
 
 ## Tech Stack
 
-**AI & ML**
-Python • LangGraph • LangChain • PyTorch • Scikit-Learn • OpenAI APIs
+**AI Engineering**
+Python • LangGraph • LangChain • PyTorch • RAG • MCP • Kubernetes 
 
-## Find Me Around The Web 🌍
+## Find Me On Linked In : <a>www.linkedin.com/in/delight-bessie</a>
 
 > Building AI systems that solve real-world problems.
