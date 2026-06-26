@@ -1,6 +1,6 @@
-# Hi, I'm Bessie ✌️😃
+# Hi, I'm Bessie 
 
-I'm an AI Engineer and Backend Engineer from Ghana.
+I'm an AI Engineer and Backend Developer.
 
 I build intelligent systems powered by LLMs, AI agents, RAG pipelines, automation workflows, and machine learning models. On the backend, I design scalable APIs, data pipelines, and distributed systems using modern technologies.
 
