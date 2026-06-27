@@ -23,6 +23,6 @@ My current focus is on agentic AI architectures, orchestration frameworks, retri
 **AI Engineering**
 Python • LangGraph • LangChain • PyTorch • RAG • MCP • Kubernetes 
 
-Let's connect : <a>www.linkedin.com/in/delight-bessie</a> || <a> bessiedelight@gmail.com </a>
+Let's connect : <a>www.linkedin.com/in/delight-bessie</a> || <a> bessiedelight@gmail.com </a> || <a> https://medium.com/@bessiedelight </a>
 
 > Building AI systems that solve real-world problems.
