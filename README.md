@@ -25,4 +25,4 @@ Python • LangGraph • LangChain • PyTorch • RAG • MCP • Kubernetes
 
 Let's connect : <a> linkedin.com/in/delight-bessie </a> || <a> bessiedelight@gmail.com </a> || <a> https://medium.com/@bessiedelight </a>
 
-> Building AI systems that solve real-world problems.
+> Building AI systems that solve real-world problems 😁✌️.
